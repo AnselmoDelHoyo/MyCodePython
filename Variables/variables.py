@@ -28,6 +28,8 @@ dni = 16873516
 
 bienvenida_dni = f"Hola! {dni} ¿cómo estás?" # El fstring transforma todo a string
 
+# Al nombrar una variable con más de una palabra se usa la convención de snake_case
+
 print(bienvenida)
 print(bienvenida_dni)
 
