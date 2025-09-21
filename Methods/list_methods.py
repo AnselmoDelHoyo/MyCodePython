@@ -2,6 +2,8 @@
 # List methods
 
 lista = list(["Hola", "Luis", 18])
+list1 = ["Del", "Add", "More"]
+print(list1)
 
 # Devuelve la cantidad de elementos
 cantidad_elementos = len(lista)
@@ -38,7 +40,7 @@ lista2.sort(reverse=True)
 lista.reverse()
 
 # Verificando si un elemento se encuentra en la lista
-elemento_encontrado = lista.index(18)
+elemento_encontrado = lista.index(18) 
 
 print(lista)
 print(elemento_encontrado)

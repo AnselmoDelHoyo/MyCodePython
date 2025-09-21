@@ -9,3 +9,6 @@ for x,num in enumerate(num_list):
         break
 
 print(count)
+
+a = isinstance(str, "a");
+print
